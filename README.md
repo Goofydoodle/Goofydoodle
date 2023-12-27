@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my calculator app<br>🌱 I’m currently learning Python and JS <br>⚡ Fun fact Svelte Kit >>> React | Change my mind
+🔭 I’m currently working on upcoming discord bot<br>🌱 I’m currently learning Python and JS <br>⚡ Fun fact: Svelte Kit >>> React | Change my mind
 
 
 # 💻 Tech Stack:
