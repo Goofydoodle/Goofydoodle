@@ -4,7 +4,7 @@
 
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/519175029582200882)<br>
-![X (formerly Twitter) URL](https://img.shields.io/twitter/https://x.com/GoofyGagan)
+![X](https://img.shields.io/twitter/https://x.com/GoofyGagan)
 
 
 # Tech Stack:
